@@ -1,4 +1,12 @@
 .strock{
     width: 10%;
     height: 2px;
+    margin: 0 30px;
 }
+
+:root{
+    --bs-dark-rgb:44,62,80;
+    --bs-success-rgb:26,188,156;
+}
+
+
