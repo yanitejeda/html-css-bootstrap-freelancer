@@ -1,5 +1,5 @@
 .strock{
-    width: 10%;
+    width: 15%;
     height: 2px;
     margin: 0 30px;
 }
@@ -8,5 +8,32 @@
     --bs-dark-rgb:44,62,80;
     --bs-success-rgb:26,188,156;
 }
+.btn-success {
+    background-color: #1ABC9C;
+    border-color: #1ABC9C;
+}
+.link-success{
+    color: #1abc9c;
+}
+
+.bg-footer{
+    background-color: #3A546D;
+}
 
 
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 25px;
+    font-size: 14px;
+    padding: 0px 0px;
+    text-align: center;
+}
+
+.btn-circle-sm {
+    width: 40px;
+    height: 40px;
+    border-radius: 25px;
+    font-size: 16px;
+    text-align: center;
+}
